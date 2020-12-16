@@ -135,3 +135,8 @@ hr {
   font-size: 0.74rem;
   padding: 20px 0px;
 }
+
+.mountain {
+	width: 100%;
+    max-width: fit-content;
+}
